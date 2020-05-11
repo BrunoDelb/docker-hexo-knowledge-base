@@ -1,13 +1,13 @@
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: http://localhost.com
-url: http://kb.mewtest.com/
+url: http://kb.devopstestlab.com/
 root: /
 
 # Header
 menu:
   Home: /
-  Support: mailto:support@myetherwallet.com
+  Support: mailto:brunodelb@gmail.com
 
 rss: /atom.xml
 
